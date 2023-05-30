@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS library_db;
+CREATE DATBASE library_db;
